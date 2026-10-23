@@ -1,0 +1,24 @@
+The coffee that sells the most cups isn't necessarily the one that brings in the most revenue. ☕
+
+That was one of my takeaways from Analyst Club's Friday Challenge, where I built a Coffee Sales Insights dashboard in Tableau.
+
+I explored 3,636 coffee vending-machine sales across eight drinks, asking: What should stay stocked? When should the machine be ready for peak demand? And what do the monthly trends actually tell us?
+
+Three findings stood out:
+• Latte led revenue at 27,866.30, while Americano with Milk led volume with 824 cups.
+• 10–11 a.m. was the busiest hour, with 349 cups sold across the dataset.
+• October 2024 generated the highest monthly revenue, at 13,891.16.
+
+My business takeaway: prioritise availability of the leading drinks, plan replenishment ahead of demand peaks, and investigate the drivers of strong months before building forecasts around them.
+
+I also added a time-slot revenue view to explore how sales change through the day. March 2025 is only a partial month, so comparisons need that context. Revenue figures use the dataset's unspecified local currency.
+
+This project helped me practise translating dashboard patterns into business questions, practical recommendations and clearly defined KPIs.
+
+Thank you, @Analyst Club, for the challenge and the opportunity to keep learning through practice!
+
+Project repository: https://github.com/Bunniey/coffee-sales-insights-tableau
+
+If you managed this vending machine, which would you investigate first: product availability, peak-hour readiness or payment reliability?
+
+#AnalystClub #FridayChallenge #BusinessAnalysis #Tableau #DataStorytelling #BusinessAnalytics

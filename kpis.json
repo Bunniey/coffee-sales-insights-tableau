@@ -1,0 +1,10 @@
+{
+  "cups": 3636,
+  "revenue": 115431.58,
+  "average_price_per_cup": 31.75,
+  "card_revenue_share_pct": 97.24,
+  "card_cup_share_pct": 97.55,
+  "start": "2024-03-01",
+  "end": "2025-03-23",
+  "expected_blank_cash_card_ids": 89
+}
